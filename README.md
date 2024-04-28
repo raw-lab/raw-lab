@@ -1,9 +1,6 @@
 # Hi there 👋
 # Welcome to the RAW Lab 
 
-[![RAW Lab GitHub stats](https://github-readme-stats.vercel.app/api?username=raw-lab)](https://github.com/raw-lab/github-readme-stats)
-
-
 - 🔭 I’m currently working on Microbialites/Stromatolites for NASA, Nitrogenase for USDA, Viral-like particles for industry, and the bat immune system for NIH
 - 🌱 We currently learning Rust as a lab
 - 👯 We are looking to collaborate on anything related to viruses, bioinformatics, computational biology, or synthetic biology. 
@@ -12,3 +9,5 @@
 - 📫 How to reach to us: [Dr. RAW](mailto:rwhit101@charlotte.edu)
 - ⚡ Fun fact: There are more viruses on Earth then stars in the observable universe. More viruses in your mouth then stars in the milky way 🌌.
 
+
+[![RAW Lab GitHub stats](https://github-readme-stats.vercel.app/api?username=raw-lab)](https://github.com/raw-lab/github-readme-stats)
