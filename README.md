@@ -10,4 +10,6 @@
 - ⚡ Fun fact: There are more viruses on Earth then stars in the observable universe. More viruses in your mouth then stars in the milky way 🌌.
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raw-lab)](https://git.io/streak-stats)
+
 [![RAW Lab GitHub stats](https://github-readme-stats.vercel.app/api?username=raw-lab)](https://github.com/raw-lab/github-readme-stats)
